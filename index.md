@@ -15,7 +15,7 @@
 
 ## 2. "Fugue in Bb Minor" (original composition)
 * [Link to repo](https://github.com/allolib-s23/demo1-gracefeng05/blob/main/tutorials/synthesis/harpsichord.cpp)
-* Instructions to play: run ```./run.sh tutorials/synthesis/interstellar.cpp``` and press 'f'
+* Instructions to play: run ```./run.sh tutorials/synthesis/harpsichord.cpp``` and press 'f'
 * Using Christine Tu's MIDI to json conversion, I composed a short fugue in MuseScore to be played in AlloLib by the plucked string preset. This project was my first attempt at changing the sound to emulate an instrument (harpsichord). I did so by changing the ADSR to have a stronger attack and less decay. I also made the sound slightly "warmer" by following Adam Schmieder's notes on synthesis.
 
 ## 3. "Organon" (original composition)
