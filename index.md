@@ -21,6 +21,9 @@
 ## 3. "Organon" (original composition)
 * [Link to repo](https://github.com/allolib-s23/demo1-gracefeng05/blob/main/tutorials/synthesis/organon.cpp)
 * Instructions to play: run ```./run.sh tutorials/synthesis/organon.cpp``` and press 'o'
-* Again using Christine Tu's MIDI to json conversion, I experimented with graphics that matched their respective sounds. By applying a randomized rotation to the cube mesh, I created an illusion of vibration that intensified as the note sustained.
+* Again using Christine Tu's MIDI to json conversion, I experimented with graphics that matched their respective sounds. By applying a randomized rotation to the cube mesh, I created an illusion of vibration that intensified as the note sustained. For the background, I attempted to emulate the sound of a pedaled marimba using a sine wave.
 
-## 4. 
+## 4. "Miniboss" (original composition)
+* [Link to repo](https://github.com/allolib-s23/demo1-gracefeng05/blob/main/tutorials/synthesis/miniboss.cpp)
+* Instructions to play: run ```./run.sh tutorials/synthesis/miniboss.cpp``` and press 'm'
+* This time, I converted my piece from Logic Pro. Unlike my previous pieces, it was originally written for synth sounds (which I found in Logic Pro). I attempted to recreate these Logic Pro sounds by tweaking Adam Schmieder's presets.
